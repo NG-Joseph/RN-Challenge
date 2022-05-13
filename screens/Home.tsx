@@ -16,9 +16,9 @@ type Props = {
     }
     return (
         <View style={styles.container}>
-      <View style={styles.nav}>
+      {/* <View style={styles.nav}>
       <Header />
-      </View>
+      </View> */}
       <View style={styles.form}>
         <Form />
       </View>
